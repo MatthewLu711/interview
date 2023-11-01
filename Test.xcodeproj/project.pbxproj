@@ -13,7 +13,7 @@
 		454EC30D2AEF7AD200270869 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 454EC30B2AEF7AD200270869 /* Main.storyboard */; };
 		454EC30F2AEF7AD400270869 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 454EC30E2AEF7AD400270869 /* Assets.xcassets */; };
 		454EC3122AEF7AD400270869 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 454EC3102AEF7AD400270869 /* LaunchScreen.storyboard */; };
-		45A796B42AF26BEB00FBB38E /* Question 1 Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 45A796B32AF26BEB00FBB38E /* Question 1 Screenshot.png */; };
+		45DE1A602AF26EF200533E56 /* Question 2 Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 45DE1A5F2AF26EF200533E56 /* Question 2 Screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		454EC30E2AEF7AD400270869 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		454EC3112AEF7AD400270869 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		454EC3132AEF7AD400270869 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		45A796B32AF26BEB00FBB38E /* Question 1 Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Question 1 Screenshot.png"; sourceTree = "<group>"; };
+		45DE1A5F2AF26EF200533E56 /* Question 2 Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Question 2 Screenshot.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				454EC30E2AEF7AD400270869 /* Assets.xcassets */,
 				454EC3102AEF7AD400270869 /* LaunchScreen.storyboard */,
 				454EC3132AEF7AD400270869 /* Info.plist */,
-				45A796B32AF26BEB00FBB38E /* Question 1 Screenshot.png */,
+				45DE1A5F2AF26EF200533E56 /* Question 2 Screenshot.png */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -131,7 +131,7 @@
 				454EC3122AEF7AD400270869 /* LaunchScreen.storyboard in Resources */,
 				454EC30F2AEF7AD400270869 /* Assets.xcassets in Resources */,
 				454EC30D2AEF7AD200270869 /* Main.storyboard in Resources */,
-				45A796B42AF26BEB00FBB38E /* Question 1 Screenshot.png in Resources */,
+				45DE1A602AF26EF200533E56 /* Question 2 Screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
