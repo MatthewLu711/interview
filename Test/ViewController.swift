@@ -23,9 +23,8 @@ class ViewController: UIViewController {
     
     let titleLabel: UILabel = {
          let titleLabel = UILabel()
-     titleLabel.text = "Fuel Price: "
+         titleLabel.text = "Fuel Price: "
          titleLabel.translatesAutoresizingMaskIntoConstraints = false
-         titleLabel.setContentHuggingPriority(.defaultLow, for: .horizontal)
          return titleLabel
      }()
      
@@ -34,7 +33,6 @@ class ViewController: UIViewController {
          imageView.image = UIImage(systemName: "multiply.circle.fill")
          imageView.contentMode = .scaleAspectFit
          imageView.translatesAutoresizingMaskIntoConstraints = false
-         imageView.setContentHuggingPriority(.defaultHigh, for: .horizontal)
          return imageView
      }()
      
@@ -44,8 +42,6 @@ class ViewController: UIViewController {
          detailLabel.translatesAutoresizingMaskIntoConstraints = false
          return detailLabel
      }()
-    
- 
     
     override func viewDidLoad() {
         super.viewDidLoad()
